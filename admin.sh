@@ -4,3 +4,5 @@ momo
 cave
 obase
 edimo
+aku
+divine
